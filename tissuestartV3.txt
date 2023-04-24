@@ -1,2 +1,2 @@
-1.0
+1.1
 https://version.tissuelabs.com/TissueStartV3Setup.exe
